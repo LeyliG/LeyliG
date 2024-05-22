@@ -26,7 +26,7 @@ I am a PhD student studying Computer Science and Data Sientist with over 5 years
 - 📚 During my PhD, I am focusing on cutting-edge research in applying AI and Machine Learning (ML) to improve human lives and experiences.
 - 🌱 Currently, I am exploring applications of causal inference in various domains.
 - 📈 My previous projects include uding ML in healthcare diagnostics, deep transfer learning for image segmentation, evaluation of bugs in Software Defined Vehicles, and deep learning for autonomous driving tasks.
-- :woman_cook: 🥾 🌳 🌊 📖 In my free time, I like to bake, hiking and exploring, and reading historical fiction. 
+- :woman_cook: 🥾 🌳 🌊 📖 In my free time, I like baking, hiking and exploring, and reading historical fiction. 
 
 
 
