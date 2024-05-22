@@ -2,6 +2,22 @@
   <img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6j12mt2561boffqnrf2i.gif" width="650" height="210"/>
 </div>
 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/leyligarryyeva/">
+    <img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://platform.stratascratch.com/user/aia_cubed">
+    <img src="https://img.shields.io/badge/STRATASCRATCH-green?style=for-the-badge&logo=stratascratch&logoColor=white" alt="StrataScratch Badge"/>
+  </a>
+  <a href="https://www.kaggle.com/ayagarryyeva">
+    <img src="https://img.shields.io/badge/KAGGLE-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
+  </a>
+  <a href="https://leetcode.com/u/lgarryyeva/">
+    <img src="https://img.shields.io/badge/LEETCODE-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="LeetCode Badge"/>
+  </a>
+</div>
+
+
 
 <!--
 **LeyliG/LeyliG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
