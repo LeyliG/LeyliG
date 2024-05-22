@@ -21,7 +21,7 @@
 
 ### :woman_student:  :woman_technologist: Brief Intro:
 
-I am a PhD student studying Computer Science and Data Sientist with over 5 years of experience cleaning, statistically analyzing, visualizing, and modeling data for research and decision-making.
+Hi there! My name is Leyli (Aya) Garryyeva. I am a PhD student studying Computer Science and Data Sientist with over 5 years of experience cleaning, statistically analyzing, visualizing, and modeling data for research and decision-making.
 
 - 📚 During my PhD, I am focusing on cutting-edge research in applying AI and Machine Learning (ML) to improve human lives and experiences.
 - 🌱 Currently, I am exploring applications of causal inference in various domains and building my project portfolio.
@@ -52,9 +52,15 @@ I am a PhD student studying Computer Science and Data Sientist with over 5 years
 ![](https://img.shields.io/badge/Economics-EDEFF4?style=flat&logoColor=white)
 ![](https://img.shields.io/badge/Finance-D6ECD2?style=flat&logoColor=white)
 ![](https://img.shields.io/badge/Public_Policy-BDECF3?style=flat&logoColor=white)
+</div>
 
+---
+<br/>
+<h3 align="left">My Stats:</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LeyliG&title_color=ef4444&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&show_icons=true&locale=en&layout=compact" alt="LeyliG" /></p>
+<a href="http://www.github.com/LeyliG"><img src="https://github-readme-streak-stats.herokuapp.com/?user=LeyliG&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-
+[![Aya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LeyliG&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/LeyliG/github-readme-activity-graph)
 
 <!--
 **LeyliG/LeyliG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -78,4 +84,9 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
 <\div>
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Swetha_Murthy?theme=dark&font=Hind%20Siliguri)](https://leetcode.com/Swetha_Murthy/)
+
+[![Swetha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=swethamurthy25&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/swethamurthy25/github-readme-activity-graph)
+
 -->
