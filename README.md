@@ -57,10 +57,10 @@ Hi there! My name is Leyli (Aya) Garryyeva. I am a PhD student studying Computer
 ---
 <br/>
 <h3 align="left">My Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LeyliG&title_color=ef4444&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&show_icons=true&locale=en&layout=compact" alt="LeyliG"  /></p>
-<a href="http://www.github.com/LeyliG"><img src="https://github-readme-streak-stats.herokuapp.com/?user=LeyliG&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LeyliG&title_color=ef4444&text_color=ffffff&icon_color=f97316&bg_color=3A476F&hide_border=true&show_icons=true&locale=en&layout=compact" alt="LeyliG"  /></p>
+<a href="http://www.github.com/LeyliG"><img src="https://github-readme-streak-stats.herokuapp.com/?user=LeyliG&stroke=ffffff&background=3A476F&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-[![Aya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LeyliG&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/LeyliG/github-readme-activity-graph)
+[![Aya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LeyliG&bg_color=3A476F&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/LeyliG/github-readme-activity-graph)
 
 
 <!--
