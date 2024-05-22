@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" align="Center">
-  <a href="https://www.linkedin.com/in/leyligarryyeva/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/leyligarryyeva/" target="_top" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://platform.stratascratch.com/user/aia_cubed" target="_blank" rel="noopener noreferrer">
