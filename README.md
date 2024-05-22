@@ -1,5 +1,6 @@
-## Hi there 👋
-
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6j12mt2561boffqnrf2i.gif)" width="100"/>
+</div>
 <!--
 **LeyliG/LeyliG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
