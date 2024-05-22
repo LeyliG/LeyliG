@@ -39,8 +39,8 @@ I am a PhD student studying Computer Science and Data Sientist with over 5 years
 ![](https://img.shields.io/badge/Machine_Learning-FF6F61?style=flat&logoColor=white)
 ![](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=microsoft-power-bi&logoColor=white)
 ![](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![](https://img.shields.io/badge/Jira-E97627?style=flat&logo=jira&logoColor=white)
-![](https://img.shields.io/badge/Trello-E97627?style=flat&logo=trello&logoColor=white)
+![](https://img.shields.io/badge/Jira-2018FF?style=flat&logo=jira&logoColor=white)
+![](https://img.shields.io/badge/Trello-0079BF?style=flat&logo=trello&logoColor=white)
 
 
 <!--
