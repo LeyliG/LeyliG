@@ -19,7 +19,7 @@
   </p>
 </div>
 
-### :woman-student-light-skin-tone:  :woman-technologist-light-skin-tone: Brief Intro:
+### :woman_student_light_skin_tone:  :woman-technologist-light-skin-tone: Brief Intro:
 
 I am a PhD student studying Computer Science and Data Sientist with over 5 years of experience cleaning, statistically analyzing, visualizing, and modeling data for research and decision-making.
 
