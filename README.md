@@ -3,16 +3,16 @@
 </div>
 
 <div id="badges" align="Center">
-  <a href="https://www.linkedin.com/in/leyligarryyeva/">
+  <a href="https://www.linkedin.com/in/leyligarryyeva/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://platform.stratascratch.com/user/aia_cubed">
+  <a href="https://platform.stratascratch.com/user/aia_cubed" target="_blank">
     <img src="https://img.shields.io/badge/STRATASCRATCH-green?style=for-the-badge&logo=stratascratch&logoColor=white" alt="StrataScratch Badge"/>
   </a>
-  <a href="https://www.kaggle.com/ayagarryyeva">
+  <a href="https://www.kaggle.com/ayagarryyeva" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-333333?style=for-the-badge&logo=kaggle&logoColor=blue" alt="Kaggle Badge"/>
   </a>
-  <a href="https://leetcode.com/u/lgarryyeva/">
+  <a href="https://leetcode.com/u/lgarryyeva/" target="_blank">
     <img src="https://img.shields.io/badge/Leetcode-333333?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="LeetCode Badge"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=LeyliG&label=Profile%20views&color=red&style=for-the-badge" alt="LeyliG"/> 
