@@ -50,7 +50,7 @@ I am a PhD student studying Computer Science and Data Sientist with over 5 years
 ![](https://img.shields.io/badge/Mathematics-F7F0FA?style=flat&logoColor=white)
 ![](https://img.shields.io/badge/Computer_Science-E4F7FA?style=flat&logoColor=white)
 ![](https://img.shields.io/badge/Economics-EDEFF4?style=flat&logoColor=white)
-![](https://img.shields.io/badge/Finance-B7BDDB0?style=flat&logoColor=white)
+![](https://img.shields.io/badge/Finance-D6ECD2?style=flat&logoColor=white)
 ![](https://img.shields.io/badge/Public_Policy-BDECF3?style=flat&logoColor=white)
 
 
