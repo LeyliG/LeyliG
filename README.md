@@ -43,6 +43,18 @@ I am a PhD student studying Computer Science and Data Sientist with over 5 years
 ![](https://img.shields.io/badge/Machine_Learning-FF6F61?style=flat&logoColor=white)
 ![](https://img.shields.io/badge/Deep_Learning-C4C9CC?style=flat&logoColor=white)
 
+<h3 align="left"> 🤓 Academic & Professional Background </h3>
+
+![](https://img.shields.io/badge/Data_Science-E4F0F6?style=flat&logoColor=white)
+![](https://img.shields.io/badge/Operations_Research-EEF6EC?style=flat&logoColor=white)
+![](https://img.shields.io/badge/Mathematics-F7F0FA?style=flat&logoColor=white)
+![](https://img.shields.io/badge/Computer_Science-E4F7FA?style=flat&logoColor=white)
+![](https://img.shields.io/badge/Economics-EDEFF4?style=flat&logoColor=white)
+![](https://img.shields.io/badge/Finance-B7BDDB0?style=flat&logoColor=white)
+![](https://img.shields.io/badge/Public_Policy-BDECF3?style=flat&logoColor=white)
+
+
+
 
 <!--
 **LeyliG/LeyliG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
