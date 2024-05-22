@@ -87,6 +87,7 @@ Here are some ideas to get you started:
 <\div>
 
 https://www.atlassian.com/blog/trello/the-how-and-why-behind-trellos-visual-brand-guide
+https://www.sitepoint.com/github-profile-readme/
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Swetha_Murthy?theme=dark&font=Hind%20Siliguri)](https://leetcode.com/Swetha_Murthy/)
 
