@@ -24,10 +24,23 @@
 I am a PhD student studying Computer Science and Data Sientist with over 5 years of experience cleaning, statistically analyzing, visualizing, and modeling data for research and decision-making.
 
 - 📚 During my PhD, I am focusing on cutting-edge research in applying AI and Machine Learning (ML) to improve human lives and experiences.
-- 🌱 Currently, I am exploring applications of causal inference in various domains.
+- 🌱 Currently, I am exploring applications of causal inference in various domains and building my project portfolio.
 - 📈 My previous projects include uding ML in healthcare diagnostics, deep transfer learning for image segmentation, evaluation of bugs in Software Defined Vehicles, and deep learning for autonomous driving tasks.
 - :woman_cook: 🥾 🌳 🌊 📖 In my free time, I like baking, hiking and exploring, and reading historical fiction. 
 
+<h3 align="left">⚒️ 💻 Technical Skills </h3>
+
+![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![](https://img.shields.io/badge/R-3776AB?style=flat&logo=r&logoColor=white)
+![](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
+![](https://img.shields.io/badge/Oracle_DB-F80000?style=flat&logo=oracle&logoColor=white)
+![](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![](https://img.shields.io/badge/Machine_Learning-FF6F61?style=flat&logoColor=white)
+![](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=microsoft-power-bi&logoColor=white)
+![](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![](https://img.shields.io/badge/Jira-E97627?style=flat&logo=jira&logoColor=white)
+![](https://img.shields.io/badge/Trello-E97627?style=flat&logo=trello&logoColor=white)
 
 
 <!--
@@ -43,4 +56,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+![](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![](https://img.shields.io/badge/GraphQL-E434AA?style=flat&logo=graphql&logoColor=white)
+![](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
+![](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+
+<\div>
 -->
