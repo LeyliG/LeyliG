@@ -29,7 +29,8 @@ Hi there! My name is Leyli (Aya) Garryyeva. I am a PhD student studying Computer
 - :woman_cook: 🥾 🌳 🌊 📖 In my free time, I like baking, hiking and exploring, and reading historical fiction. 
 
 ```mermaid
-  flowchart RL[My academic and professional journey]
+  title: My academic and professional journey
+  flowchart RL
       A[BS in Math] --> B[MSc in CS];
       B --> C[PhD in CS];
       B --> D{Data Scientist at Seabourn};
