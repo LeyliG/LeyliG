@@ -19,7 +19,7 @@
   </p>
 </div>
 
-### :woman_student:  :woman_technologist: Brief Intro:
+### Brief Intro:
 
 Hi there! My name is Leyli (Aya) Garryyeva. I am a PhD student studying Computer Science and Data Sientist with over 5 years of experience cleaning, statistically analyzing, visualizing, and modeling data for research and decision-making.
 
@@ -29,7 +29,7 @@ Hi there! My name is Leyli (Aya) Garryyeva. I am a PhD student studying Computer
 - :woman_cook: 🥾 🌳 🌊 📖 In my free time, I like baking, hiking and exploring, and reading historical fiction. 
 
 ---
-My academic and professional journey
+:woman_student:  :woman_technologist: My academic and professional journey 
 ---
 
 ```mermaid  
