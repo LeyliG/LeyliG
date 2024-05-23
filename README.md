@@ -28,8 +28,11 @@ Hi there! My name is Leyli (Aya) Garryyeva. I am a PhD student studying Computer
 - 📈 My previous projects include uding ML in healthcare diagnostics, deep transfer learning for image segmentation, evaluation of bugs in Software Defined Vehicles, and deep learning for autonomous driving tasks.
 - :woman_cook: 🥾 🌳 🌊 📖 In my free time, I like baking, hiking and exploring, and reading historical fiction. 
 
-```mermaid
-  title: My academic and professional journey
+---
+title: My academic and professional journey
+---
+
+```mermaid  
   flowchart RL
       A[BS in Math] --> B[MSc in CS];
       B --> C[PhD in CS];
