@@ -29,7 +29,7 @@ Hi there! My name is Leyli (Aya) Garryyeva. I am a PhD student studying Computer
 - :woman_cook: 🥾 🌳 🌊 📖 In my free time, I like baking, hiking and exploring, and reading historical fiction. 
 
 ---
-title: My academic and professional journey
+My academic and professional journey
 ---
 
 ```mermaid  
@@ -41,7 +41,7 @@ title: My academic and professional journey
       E --> F{Data Scientist at Hollan America Line};
       F --> C;
 ```
-
+--- 
 <h3 align="left">⚒️ 💻 Technical Skills </h3>
 
 ![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
