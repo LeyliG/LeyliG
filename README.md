@@ -29,10 +29,13 @@ Hi there! My name is Leyli (Aya) Garryyeva. I am a PhD student studying Computer
 - :woman_cook: 🥾 🌳 🌊 📖 In my free time, I like baking, hiking and exploring, and reading historical fiction. 
 
 ```mermaid
-  sequenceDiagram;
-    participant PhD in CS
-    participant MSc in CS
-    participant BS in Math
+  flowchart TB
+      A[PhD in CS] <-- B[MSc  in CS];
+      B <-- C[BS in Math]; 
+      B --> D{Data Scientist at Hollan America Line};
+      D <-- E{Software Engineer at Miscrosoft};
+      E <-- F{Data Scientist at Seabourn};           
+      D --> A;
           
 ```
 
@@ -94,12 +97,7 @@ Here are some ideas to get you started:
 
 <\div>
 
-A[PhD in CS] <-- B[MSc  in CS];
-      B <-- C[BS in Math]; 
-      B --> D{Data Scientist at Hollan America Line};
-      D <-- E{Software Engineer at Miscrosoft};
-      E <-- F{Data Scientist at Seabourn};           
-      D --> A;
+
 
 https://www.atlassian.com/blog/trello/the-how-and-why-behind-trellos-visual-brand-guide
 https://www.sitepoint.com/github-profile-readme/
