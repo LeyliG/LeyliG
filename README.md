@@ -29,8 +29,7 @@ Hi there! My name is Leyli (Aya) Garryyeva. I am a PhD student studying Computer
 - :woman_cook: 🥾 🌳 🌊 📖 In my free time, I like baking, hiking and exploring, and reading historical fiction. 
 
 ```mermaid
-  flowchart RL
-      My academic and professional journey
+  flowchart RL My academic and professional journey
       A[BS in Math] --> B[MSc in CS];
       B --> C[PhD in CS];
       B --> D{Data Scientist at Seabourn};
@@ -99,8 +98,10 @@ Here are some ideas to get you started:
 
 
 
-https://www.atlassian.com/blog/trello/the-how-and-why-behind-trellos-visual-brand-guide
+
 https://www.sitepoint.com/github-profile-readme/
+https://mermaid.js.org/syntax/flowchart.html
+https://www.atlassian.com/blog/trello/the-how-and-why-behind-trellos-visual-brand-guide
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Swetha_Murthy?theme=dark&font=Hind%20Siliguri)](https://leetcode.com/Swetha_Murthy/)
 
