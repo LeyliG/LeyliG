@@ -32,9 +32,9 @@ Hi there! My name is Leyli (Aya) Garryyeva. I am a PhD student studying Computer
   flowchart TB
       A[PhD in CS] <-- B[MSc  in CS];
       B --> D{Data Scientist at Hollan America Line};
+      C[BS in Math] --> B; 
       E{Software Engineer at Miscrosoft} --> D ;
-      F{Data Scientist at Seabourn} --> E;      
-      C[BS in Math] --> B;       
+      F{Data Scientist at Seabourn} --> E;                  
       D --> A;
           
 ```
