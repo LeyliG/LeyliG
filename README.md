@@ -29,13 +29,11 @@ Hi there! My name is Leyli (Aya) Garryyeva. I am a PhD student studying Computer
 - :woman_cook: 🥾 🌳 🌊 📖 In my free time, I like baking, hiking and exploring, and reading historical fiction. 
 
 ```mermaid
-  graph TD;
-      A[PhD in CS] <-- B[MSc  in CS];
-      B <-- C[BS in Math]; 
-      B --> D{Data Scientist at Hollan America Line};
-      D <-- E{Software Engineer at Miscrosoft};
-      E <-- F{Data Scientist at Seabourn};           
-      D --> A;
+  sequenceDiagram;
+    participant PhD in CS
+    participant MSc in CS
+    participant BS in Math
+          
 ```
 
 <h3 align="left">⚒️ 💻 Technical Skills </h3>
@@ -95,6 +93,13 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
 <\div>
+
+A[PhD in CS] <-- B[MSc  in CS];
+      B <-- C[BS in Math]; 
+      B --> D{Data Scientist at Hollan America Line};
+      D <-- E{Software Engineer at Miscrosoft};
+      E <-- F{Data Scientist at Seabourn};           
+      D --> A;
 
 https://www.atlassian.com/blog/trello/the-how-and-why-behind-trellos-visual-brand-guide
 https://www.sitepoint.com/github-profile-readme/
