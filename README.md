@@ -25,7 +25,7 @@ Hi there! My name is Leyli (Aya) Garryyeva. I am a PhD student studying Computer
 
 - 📚 During my PhD, I am focusing on cutting-edge research in applying AI and Machine Learning (ML) to improve human lives and experiences.
 - 🌱 Currently, I am exploring applications of causal inference in various domains and building my project portfolio.
-- 📈 My previous projects include uding ML in healthcare diagnostics, deep transfer learning for image segmentation, evaluation of bugs in Software Defined Vehicles, and deep learning for autonomous driving tasks.
+- 📈 My previous projects include using ML in healthcare diagnostics, deep transfer learning for image segmentation, evaluation of bugs in Software Defined Vehicles, and deep learning for autonomous driving tasks.
 - :woman_cook: 🥾 🌳 🌊 📖 In my free time, I like baking, hiking and exploring, and reading historical fiction. 
 
 ---
