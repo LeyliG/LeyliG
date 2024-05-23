@@ -28,6 +28,14 @@ Hi there! My name is Leyli (Aya) Garryyeva. I am a PhD student studying Computer
 - 📈 My previous projects include uding ML in healthcare diagnostics, deep transfer learning for image segmentation, evaluation of bugs in Software Defined Vehicles, and deep learning for autonomous driving tasks.
 - :woman_cook: 🥾 🌳 🌊 📖 In my free time, I like baking, hiking and exploring, and reading historical fiction. 
 
+```mermaid
+  graph TD;
+      A-->B;
+      A-->C;
+      B-->D;
+      C-->D;
+```
+
 <h3 align="left">⚒️ 💻 Technical Skills </h3>
 
 ![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
