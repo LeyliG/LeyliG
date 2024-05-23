@@ -31,12 +31,10 @@ Hi there! My name is Leyli (Aya) Garryyeva. I am a PhD student studying Computer
 ```mermaid
   flowchart TB
       A[PhD in CS] <-- B[MSc  in CS];
-      B --> D{Data Scientist at Hollan America Line};
+      B --> D{Data Scientist at Seabourn};
       C[BS in Math] --> B; 
-      E{Software Engineer at Miscrosoft} --> D ;
-      F{Data Scientist at Seabourn} --> E;                  
-      D --> A;
-          
+      D --> E{Software Engineer at Miscrosoft};
+      E --> F{Data Scientist at Hollan America Line}
 ```
 
 <h3 align="left">⚒️ 💻 Technical Skills </h3>
