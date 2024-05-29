@@ -12,7 +12,7 @@
   <a href="https://www.kaggle.com/ayagarryyeva" onclick="window.open(this.href,'_blank');return false;">
     <img src="https://img.shields.io/badge/Kaggle-333333?style=for-the-badge&logo=kaggle&logoColor=blue" alt="Kaggle Badge"/>
   </a>
-  <a href="https://leetcode.com/u/lgarryyeva/" onclick="window.open(this.href,'_blank');return false;">
+  <a href="https://leetcode.com/u/aia_cubed/" onclick="window.open(this.href,'_blank');return false;">
     <img src="https://img.shields.io/badge/Leetcode-333333?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="LeetCode Badge"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=LeyliG&label=Profile%20views&color=red&style=for-the-badge" alt="LeyliG"/> 
