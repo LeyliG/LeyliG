@@ -38,7 +38,7 @@ Hi there! My name is Leyli (Aya) Garryyeva. I am a PhD student studying Computer
       B --> C[PhD in CS];
       B --> D{Data Scientist at Seabourn};
       D --> E{Software Engineer at Miscrosoft};
-      E --> F{Data Scientist at Hollan America Line};
+      E --> F{Data Scientist at Holland America Line};
       F --> C;
 ```
 --- 
