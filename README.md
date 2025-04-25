@@ -21,7 +21,7 @@
 
 ### Brief Intro:
 
-Hi there! My name is Leyli (Aya) Garryyeva. I am a PhD student studying Computer Science and a Data Sientist with over 7 years of experience cleaning, statistically analyzing, visualizing, and modeling data for research and decision-making.
+Hi there! My name is Leyli (Aya) Garryyeva. I am a PhD candidate in Computer Science and a Data Sientist with over 7 years of experience cleaning, statistically analyzing, visualizing, and modeling data for research and decision-making.
 
 - 📚 During my PhD, I am focusing on cutting-edge research in applying AI and Machine Learning (ML) to improve human lives and experiences.
 - 🌱 Currently, I am exploring applications of causal inference in various domains and building my project portfolio.
